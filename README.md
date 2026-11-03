@@ -6,6 +6,19 @@ Empreendo desde os 12 anos. Hoje toco a [Zantte](https://zantte.com.br), minha e
 
 **Portfólio completo, com prints e a história de cada projeto: [dazevedo.dev](https://dazevedo.dev)**
 
+## Destaques
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/runtrack"><img src="imagens/runtrack.png" alt="RunTrack"></a><br><b>RunTrack</b><br>SaaS para personal trainers, no ar com clientes pagando</td>
+<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/naviu"><img src="imagens/naviu.webp" alt="Naviu"></a><br><b>Naviu</b><br>Agendamento online para barbearias</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/carteira-de-aluguel"><img src="imagens/carteira-de-aluguel.webp" alt="Carteira de Aluguel"></a><br><b>Carteira de Aluguel</b><br>Gestão de imóveis, contratos e repasses</td>
+<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/zantte"><img src="imagens/zantte.png" alt="Zantte"></a><br><b>Zantte</b><br>Minha empresa: marca, mascote 3D e loja</td>
+</tr>
+</table>
+
 ## Sistemas
 
 | Projeto | O que é | Stack |
