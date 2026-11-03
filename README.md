@@ -15,11 +15,11 @@ Crio produtos de software do começo ao fim: da ideia e do design até o sistema
 
 ### Outros trabalhos
 
-- [**Sistema de restaurante**](https://dazevedo.dev/portfolio/mesa-viva): pedido pelo QR Code da mesa direto para a cozinha
+- [**Sistema de restaurante**](https://dazevedo.dev/portfolio/sistema-de-restaurante): pedido pelo QR Code da mesa direto para a cozinha
 - [**Lucro Real**](https://dazevedo.dev/portfolio/lucro-real): quanto o motorista de app realmente lucra · [código](https://github.com/dazevedodev/lucro-real)
 - [**Lives TikTok**](https://dazevedo.dev/portfolio/lives-tiktok): jogos em que o público da live controla a partida · [código](https://github.com/dazevedodev/lives-tiktok)
 - [**Raptor Run**](https://dazevedo.dev/portfolio/raptor-run): jogo de corrida infinita · [código](https://github.com/dazevedodev/raptor-run)
-- **Sites:** [Zantte](https://dazevedo.dev/portfolio/zantte) ([código](https://github.com/dazevedodev/zantte-site)) · [Awell](https://dazevedo.dev/portfolio/awell) ([código](https://github.com/dazevedodev/site-awell-claro)) · [sites para lojas locais](https://dazevedo.dev/portfolio/sites-para-negocios)
+- [**Sites**](https://dazevedo.dev/portfolio/sites): Zantte, Awell e lojas locais · código: [Zantte](https://github.com/dazevedodev/zantte-site) · [Awell](https://github.com/dazevedodev/site-awell-claro)
 
 ### Stack
 
