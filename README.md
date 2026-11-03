@@ -1,66 +1,36 @@
-# Oi, eu sou o Daniel D’Azevedo
+<a href="https://dazevedo.dev"><img src="banner.png" alt="DAZEVEDO"></a>
 
-Crio produtos de software do começo ao fim: da ideia e do design até o sistema no ar, com cliente pagando. Uso IA no dia a dia para construir mais rápido, e também dentro dos próprios produtos.
+Crio produtos de software do começo ao fim: da ideia e do design até o sistema no ar, com cliente pagando. Uso IA no dia a dia, para construir e dentro dos próprios produtos. Fundador da [Zantte](https://zantte.com.br).
 
-Empreendo desde os 12 anos. Hoje toco a [Zantte](https://zantte.com.br), minha empresa de IA, sistemas, sites e 3D, e curso Direito.
+**[Ver portfólio completo →](https://dazevedo.dev)**
 
-**Portfólio completo, com prints e a história de cada projeto: [dazevedo.dev](https://dazevedo.dev)**
+### Sistemas
 
-## Destaques
+- [**RunTrack**](https://dazevedo.dev/portfolio/runtrack): SaaS para personal trainers · [runtrack.com.br](https://runtrack.com.br)
+- [**Naviu**](https://dazevedo.dev/portfolio/naviu): agendamento online para barbearias · [naviu.app.br](https://naviu.app.br) · [código](https://github.com/dazevedodev/naviu)
+- [**Carteira de Aluguel**](https://dazevedo.dev/portfolio/carteira-de-aluguel): gestão de imóveis, contratos e repasses · [carteiradealuguel.com.br](https://carteiradealuguel.com.br) · [código](https://github.com/dazevedodev/carteira-app)
+- [**Sistema de restaurante**](https://dazevedo.dev/portfolio/sistema-restaurante): pedido pelo QR Code da mesa direto para a cozinha
+- [**HD Prime**](https://dazevedo.dev/portfolio/hd-prime): controle de vendas no Mercado Livre e no TikTok Shop
+- [**Mirante**](https://dazevedo.dev/portfolio/mirante): venda de ingressos com a vista do lugar em 3D
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/runtrack"><img src="imagens/runtrack.png" alt="RunTrack"></a><br><b>RunTrack</b><br>SaaS para personal trainers, no ar com clientes pagando</td>
-<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/naviu"><img src="imagens/naviu.webp" alt="Naviu"></a><br><b>Naviu</b><br>Agendamento online para barbearias</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/carteira-de-aluguel"><img src="imagens/carteira-de-aluguel.webp" alt="Carteira de Aluguel"></a><br><b>Carteira de Aluguel</b><br>Gestão de imóveis, contratos e repasses</td>
-<td width="50%" valign="top"><a href="https://dazevedo.dev/portfolio/zantte"><img src="imagens/zantte.png" alt="Zantte"></a><br><b>Zantte</b><br>Minha empresa: marca, mascote 3D e loja</td>
-</tr>
-</table>
+### Apps e produtos
 
-## Sistemas
+- [**Fôlego**](https://dazevedo.dev/portfolio/folego): finanças para quem não tem salário fixo
+- [**Vansy**](https://dazevedo.dev/portfolio/vansy): acompanhamento de van escolar ao vivo
+- [**Lucro Real**](https://dazevedo.dev/portfolio/lucro-real): quanto o motorista de app realmente lucra
+- [**ChatGPT na Prática**](https://dazevedo.dev/portfolio/chatgpt-na-pratica): guia de imagens profissionais com IA
 
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [RunTrack](https://dazevedo.dev/portfolio/runtrack) · [site](https://runtrack.com.br) | SaaS para personal trainers: alunos, treinos com vídeo, agenda, aulas online, chat e cobrança por Pix | React, TanStack Start, Supabase, Asaas, Cloudflare |
-| [Naviu](https://dazevedo.dev/portfolio/naviu) · [site](https://naviu.vercel.app) · [código](https://github.com/dazevedodev/naviu) | Agendamento online para barbearias, com confirmação e lembrete por e-mail e assinatura mensal | Next.js, Supabase, Resend, Asaas |
-| [Carteira de Aluguel](https://dazevedo.dev/portfolio/carteira-de-aluguel) · [site](https://carteiradealuguel.com.br) · [código](https://github.com/dazevedodev/carteira-app) | Gestão de imóveis, contratos, multa e juros, reajuste por IGP-M e repasses | Next.js, Supabase, Leaflet |
-| [Sistema de restaurante](https://dazevedo.dev/portfolio/sistema-restaurante) | Pedido pelo QR Code da mesa, tela da cozinha e impressão automática na impressora térmica | Next.js, Supabase Realtime, Node.js |
-| [HD Prime](https://dazevedo.dev/portfolio/hd-prime) | Controle de vendas no Mercado Livre e no TikTok Shop, feito para um cliente | JavaScript, Supabase |
-| [Mirante](https://dazevedo.dev/portfolio/mirante) | Venda de ingressos com a vista do seu lugar em 3D (em desenvolvimento) | TypeScript, Three.js |
+### IA, jogos e sites
 
-## Apps e produtos
+- [**Vídeos com IA**](https://dazevedo.dev/portfolio/videos-com-ia): divulgação feita com IA e fluxo automatizado
+- [**Lives TikTok**](https://dazevedo.dev/portfolio/lives-tiktok): jogos em que o público da live controla a partida
+- [**Raptor Run**](https://dazevedo.dev/portfolio/raptor-run): jogo de corrida infinita
+- [**Zantte**](https://dazevedo.dev/portfolio/zantte) · [**Awell**](https://dazevedo.dev/portfolio/awell) · [**Sites para negócios**](https://dazevedo.dev/portfolio/sites-para-negocios)
 
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [Fôlego](https://dazevedo.dev/portfolio/folego) | App de finanças para quem não tem salário fixo, à venda na Hotmart, com anúncios gerados por código | JavaScript, PWA, Python, Playwright |
-| [Vansy](https://dazevedo.dev/portfolio/vansy) | Acompanhamento de van escolar ao vivo, com rota otimizada (em desenvolvimento) | React Native, Expo, Supabase |
-| [Lucro Real](https://dazevedo.dev/portfolio/lucro-real) | Mostra quanto o motorista de app realmente lucra por corrida (em desenvolvimento) | Next.js, Capacitor, Kotlin |
-| [ChatGPT na Prática](https://dazevedo.dev/portfolio/chatgpt-na-pratica) | Guia para criar imagens profissionais com IA, à venda na Hotmart | ChatGPT, Hotmart |
+### Stack
 
-## IA, automação e jogos
+TypeScript · React · Next.js · Supabase · Tailwind CSS · Node.js · Python · Claude e ChatGPT
 
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [Vídeos com IA](https://dazevedo.dev/portfolio/videos-com-ia) | Vídeos e imagens de divulgação feitos com IA, com personagem consistente e fluxo automatizado | Higgsfield, Kling, Claude Code, Blender |
-| [Lives TikTok](https://dazevedo.dev/portfolio/lives-tiktok) | Jogos para live no TikTok em que comentários e presentes do público mexem no jogo | Node.js, WebSocket, Three.js |
-| [Raptor Run](https://dazevedo.dev/portfolio/raptor-run) | Jogo de corrida infinita, jogável dentro do portfólio | Flutter, Dart |
+---
 
-## Sites
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [Zantte](https://dazevedo.dev/portfolio/zantte) · [site](https://zantte.com.br) | Minha empresa: identidade visual, mascote 3D e site | Next.js, GSAP, Three.js |
-| [Awell](https://dazevedo.dev/portfolio/awell) | Site de parceiro autorizado Claro, feito para um cliente | HTML, CSS, JavaScript |
-| [Sites para negócios](https://dazevedo.dev/portfolio/sites-para-negocios) | Sites com painel de produtos para lojas locais | Node.js, Express |
-
-## Com o que eu trabalho
-
-TypeScript · React · Next.js · Supabase (Postgres, Auth, Row Level Security, Edge Functions) · Tailwind CSS · Node.js · Python · pagamentos com Asaas · IA generativa (Claude, ChatGPT, geração de imagem e vídeo)
-
-## Contato
-
-- E-mail: contato@zantte.com.br
-- Instagram: [@dani.dazevedo](https://instagram.com/dani.dazevedo)
-- Portfólio: [dazevedo.dev](https://dazevedo.dev)
+[dazevedo.dev](https://dazevedo.dev) · contato@zantte.com.br · [Instagram](https://instagram.com/dani.dazevedo)
