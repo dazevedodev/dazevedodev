@@ -1,4 +1,4 @@
-# Oi, eu sou o Daniel D´Azevedo
+# Oi, eu sou o Daniel D’Azevedo
 
 Crio produtos de software do começo ao fim: da ideia e do design até o sistema no ar, com cliente pagando. Uso IA no dia a dia para construir mais rápido, e também dentro dos próprios produtos.
 
