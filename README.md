@@ -23,9 +23,9 @@ Crio produtos de software do começo ao fim: da ideia e do design até o sistema
 ### IA, jogos e sites
 
 - [**Vídeos com IA**](https://dazevedo.dev/portfolio/videos-com-ia): divulgação feita com IA e fluxo automatizado
-- [**Lives TikTok**](https://dazevedo.dev/portfolio/lives-tiktok): jogos em que o público da live controla a partida
+- [**Lives TikTok**](https://dazevedo.dev/portfolio/lives-tiktok): jogos em que o público da live controla a partida · [código](https://github.com/dazevedodev/lives-tiktok)
 - [**Raptor Run**](https://dazevedo.dev/portfolio/raptor-run): jogo de corrida infinita
-- [**Zantte**](https://dazevedo.dev/portfolio/zantte) · [**Awell**](https://dazevedo.dev/portfolio/awell) · [**Sites para negócios**](https://dazevedo.dev/portfolio/sites-para-negocios)
+- [**Zantte**](https://dazevedo.dev/portfolio/zantte) ([código](https://github.com/dazevedodev/zantte-site)) · [**Awell**](https://dazevedo.dev/portfolio/awell) ([código](https://github.com/dazevedodev/site-awell-claro)) · [**Sites para negócios**](https://dazevedo.dev/portfolio/sites-para-negocios)
 
 ### Stack
 
