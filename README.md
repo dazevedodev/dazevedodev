@@ -11,7 +11,7 @@ Crio produtos de software do começo ao fim: da ideia e do design até o sistema
 - [**Carteira de Aluguel**](https://dazevedo.dev/portfolio/carteira-de-aluguel): gestão de imóveis, contratos e repasses · [carteiradealuguel.com.br](https://carteiradealuguel.com.br) · [código](https://github.com/dazevedodev/carteira-app)
 - [**Sistema de restaurante**](https://dazevedo.dev/portfolio/sistema-restaurante): pedido pelo QR Code da mesa direto para a cozinha
 - [**HD Prime**](https://dazevedo.dev/portfolio/hd-prime): controle de vendas no Mercado Livre e no TikTok Shop
-- [**Mirante**](https://dazevedo.dev/portfolio/mirante): venda de ingressos com a vista do lugar em 3D
+- [**Mirante**](https://dazevedo.dev/portfolio/mirante): venda de ingressos com a vista do lugar em 3D · [código](https://github.com/dazevedodev/mirante)
 
 ### Apps e produtos
 
