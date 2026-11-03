@@ -17,7 +17,7 @@ Crio produtos de software do começo ao fim: da ideia e do design até o sistema
 
 - [**Fôlego**](https://dazevedo.dev/portfolio/folego): finanças para quem não tem salário fixo
 - [**Vansy**](https://dazevedo.dev/portfolio/vansy): acompanhamento de van escolar ao vivo
-- [**Lucro Real**](https://dazevedo.dev/portfolio/lucro-real): quanto o motorista de app realmente lucra
+- [**Lucro Real**](https://dazevedo.dev/portfolio/lucro-real): quanto o motorista de app realmente lucra · [código](https://github.com/dazevedodev/lucro-real)
 - [**ChatGPT na Prática**](https://dazevedo.dev/portfolio/chatgpt-na-pratica): guia de imagens profissionais com IA
 
 ### IA, jogos e sites
