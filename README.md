@@ -11,8 +11,8 @@ Empreendo desde os 12 anos. Hoje toco a [Zantte](https://zantte.com.br), minha e
 | Projeto | O que é | Stack |
 | --- | --- | --- |
 | [RunTrack](https://dazevedo.dev/portfolio/runtrack) · [site](https://runtrack.com.br) | SaaS para personal trainers: alunos, treinos com vídeo, agenda, aulas online, chat e cobrança por Pix | React, TanStack Start, Supabase, Asaas, Cloudflare |
-| [Naviu](https://dazevedo.dev/portfolio/naviu) · [site](https://naviu.vercel.app) · [código](https://github.com/zanttedesing/naviu) | Agendamento online para barbearias, com confirmação e lembrete por e-mail e assinatura mensal | Next.js, Supabase, Resend, Asaas |
-| [Carteira de Aluguel](https://dazevedo.dev/portfolio/carteira-de-aluguel) · [site](https://carteiradealuguel.com.br) · [código](https://github.com/zanttedesing/carteira-app) | Gestão de imóveis, contratos, multa e juros, reajuste por IGP-M e repasses | Next.js, Supabase, Leaflet |
+| [Naviu](https://dazevedo.dev/portfolio/naviu) · [site](https://naviu.vercel.app) · [código](https://github.com/dazevedodev/naviu) | Agendamento online para barbearias, com confirmação e lembrete por e-mail e assinatura mensal | Next.js, Supabase, Resend, Asaas |
+| [Carteira de Aluguel](https://dazevedo.dev/portfolio/carteira-de-aluguel) · [site](https://carteiradealuguel.com.br) · [código](https://github.com/dazevedodev/carteira-app) | Gestão de imóveis, contratos, multa e juros, reajuste por IGP-M e repasses | Next.js, Supabase, Leaflet |
 | [Sistema de restaurante](https://dazevedo.dev/portfolio/sistema-restaurante) | Pedido pelo QR Code da mesa, tela da cozinha e impressão automática na impressora térmica | Next.js, Supabase Realtime, Node.js |
 | [HD Prime](https://dazevedo.dev/portfolio/hd-prime) | Controle de vendas no Mercado Livre e no TikTok Shop, feito para um cliente | JavaScript, Supabase |
 | [Mirante](https://dazevedo.dev/portfolio/mirante) | Venda de ingressos com a vista do seu lugar em 3D (em desenvolvimento) | TypeScript, Three.js |
